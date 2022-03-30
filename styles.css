@@ -1,0 +1,14 @@
+body  {
+  text-align: left;
+  background-image: url("img/graph.png");
+  background-repeat: no-repeat;
+  height: 800px;
+ background-position: top;
+ background-size: cover;
+ font-style: italic;
+ font-size: 15px;
+
+}
+h1 {
+  font-family: cursive;
+}
